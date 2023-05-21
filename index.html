@@ -42,8 +42,19 @@
     .scrollable-table {
       overflow-y: auto;
     }
+
+    /* Responsive Styles */
+    @media (max-width: 600px) {
+      body {
+        padding-top: 20px;
+      }
+      input[type="text"] {
+        width: 80%;
+        max-width: 300px;
+      }
+    }
   </style>
-  <script>
+   <script>
     function searchNRC() {
       var input = document.getElementById("input").value;
       var output = document.getElementById("output");
@@ -77,7 +88,7 @@
 </head>
 <body>
   <h1>NRC Code Search</h1>
-  <p>Enter NRC number or NRC City Code or City Name<p>
+  <p>Enter NRC number or NRC City Code or City Name</p>
   <div class="search-container">
     <input type="text" id="input" placeholder="Search" oninput="searchNRC()">
   </div>
