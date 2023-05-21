@@ -52,10 +52,10 @@
         .then(response => response.json())
         .then(data => {
           var entries = data.data;
-          var matchingEntries = entries.filter(e => e.nrc_code === input || extractTextWithinParentheses(e.name_mm) === input);
+          var matchingEntries = entries.filter(e => e.nrc_code === input || extractTextWithinParentheses(e.name_mm) === input || e.city_name === input);
           if (matchingEntries.length > 0) {
-            var matchingInfo = matchingEntries.map(e => "<tr><td>" + e.nrc_code + "</td><td>" + e.name_mm + "</td></tr>");
-            output.innerHTML = "<div class='scrollable-table'><table><tr><th>NRC Code</th><th>Name in Myanmar</th></tr>" + matchingInfo.join("") + "</table></div>";
+            var matchingInfo = matchingEntries.map(e => "<tr><td>" + e.nrc_code + "</td><td>" + extractTextWithinParentheses(e.name_mm) + "</td><td>" + e.city_name + "</td></tr>");
+            output.innerHTML = "<div class='scrollable-table'><table><tr><th>NRC Code</th><th>NRC Name</th><th>City Name</th></tr>" + matchingInfo.join("") + "</table></div>";
           } else {
             output.innerHTML = "No matching entry found.";
           }
@@ -77,8 +77,9 @@
 </head>
 <body>
   <h1>NRC Code Search</h1>
+  <p>Enter NRC number or NRC City Code or City Name<p>
   <div class="search-container">
-    <input type="text" id="input" placeholder="Enter NRC code or Name in Myanmar" oninput="searchNRC()">
+    <input type="text" id="input" placeholder="Search" oninput="searchNRC()">
   </div>
   <div id="output"></div>
 </body>
