@@ -17,7 +17,7 @@ function searchNRC() {
       .catch(error => {
         console.log('Error:', error);
         output.innerHTML = "Error fetching data.";
-      });
+      }); 
   }
   
   function extractTextWithinParentheses(text) {
