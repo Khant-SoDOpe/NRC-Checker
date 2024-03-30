@@ -1,3 +1,6 @@
+
+
+
 // Call the function when the page loads to display all data initially
 fetchDataAndDisplayAllData(document.getElementById("output"));
 
@@ -52,3 +55,4 @@ function extractTextWithinParentheses(text) {
   }
   return "";
 }
+
