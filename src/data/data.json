@@ -1,6 +1,5 @@
 {
-  "data": [
-    {
+  "data": [{
       "name_mm": "(အဂယ)",
       "nrc_code": "1",
       "city_name": "အင်ဂျန်းယန်"
@@ -116,6 +115,41 @@
       "city_name": "ဝင်းမော်"
     },
     {
+      "name_mm": "(ကမတ)",
+      "nrc_code": "1",
+      "city_name": "ကာမိုင်း"
+    },
+    {
+      "name_mm": "(ကပတ)",
+      "nrc_code": "1",
+      "city_name": "ကန်ပိုက်တီ"
+    },
+    {
+      "name_mm": "(မလန)",
+      "nrc_code": "1",
+      "city_name": "မြို့လှ"
+    },
+    {
+      "name_mm": "(ပနဒ)",
+      "nrc_code": "1",
+      "city_name": "ပန်နန်းဒင်"
+    },
+    {
+      "name_mm": "(ပဝန)",
+      "nrc_code": "1",
+      "city_name": "ပန်ဝါ"
+    },
+    {
+      "name_mm": "(ဆဒန)",
+      "nrc_code": "1",
+      "city_name": "ဆဒုံး"
+    },
+    {
+      "name_mm": "(ရဘယ)",
+      "nrc_code": "1",
+      "city_name": "ရှင်ဘွေယန်"
+    },
+    {
       "name_mm": "(ဘလခ)",
       "nrc_code": "2",
       "city_name": "ဘော်လခဲ"
@@ -149,6 +183,16 @@
       "name_mm": "(ရတန)",
       "nrc_code": "2",
       "city_name": "ရှားတော်"
+    },
+    {
+      "name_mm": "(မစန)",
+      "nrc_code": "2",
+      "city_name": "မယ်စဲ့"
+    },
+    {
+      "name_mm": "(ရသန)",
+      "nrc_code": "2",
+      "city_name": "ရွာသစ်"
     },
     {
       "name_mm": "(လဘန)",
@@ -196,6 +240,46 @@
       "city_name": "သံတောင်"
     },
     {
+      "name_mm": "(ဘဂလ)",
+      "nrc_code": "3",
+      "city_name": "ဘောဂလိ"
+    },
+    {
+      "name_mm": "(ဘသဆ)",
+      "nrc_code": "3",
+      "city_name": "ဘုရားသုံးဆူ"
+    },
+    {
+      "name_mm": "(ကမမ)",
+      "nrc_code": "3",
+      "city_name": "ကမမောင်း"
+    },
+    {
+      "name_mm": "(လသန)",
+      "nrc_code": "3",
+      "city_name": "လိပ်သို"
+    },
+    {
+      "name_mm": "(စကလ)",
+      "nrc_code": "3",
+      "city_name": "စုကလိ"
+    },
+    {
+      "name_mm": "(သတက)",
+      "nrc_code": "3",
+      "city_name": "သံတောင်ကြီး"
+    },
+    {
+      "name_mm": "(ဝလမ)",
+      "nrc_code": "3",
+      "city_name": "ဝေါလေမြိုင်"
+    },
+    {
+      "name_mm": "(ရရသ)",
+      "nrc_code": "3",
+      "city_name": "ရှမ်းရွာသစ်"
+    },
+    {
       "name_mm": "(ဟခန)",
       "nrc_code": "4",
       "city_name": "ဟားခါး"
@@ -239,6 +323,26 @@
       "name_mm": "(တဇန)",
       "nrc_code": "4",
       "city_name": "တွန်းဇံ"
+    },
+    {
+      "name_mm": "(ကခန)",
+      "nrc_code": "4",
+      "city_name": "ကျီခါး"
+    },
+    {
+      "name_mm": "(ဆမန)",
+      "nrc_code": "4",
+      "city_name": "ဆမီး"
+    },
+    {
+      "name_mm": "(ရခဒ)",
+      "nrc_code": "4",
+      "city_name": "ရိဒ်ခေါဒါရ်"
+    },
+    {
+      "name_mm": "(ရဇန)",
+      "nrc_code": "4",
+      "city_name": "ရေဇွာ"
     },
     {
       "name_mm": "(အရတ)",
@@ -421,6 +525,61 @@
       "city_name": "ရွာသစ်ကြီး"
     },
     {
+      "name_mm": "(ဒဟန)",
+      "nrc_code": "5",
+      "city_name": "ဒုံဟီး"
+    },
+    {
+      "name_mm": "(ဆမရ)",
+      "nrc_code": "5",
+      "city_name": "ဆွမ္မရာ"
+    },
+    {
+      "name_mm": "(ထပခ)",
+      "nrc_code": "5",
+      "city_name": "ထန်ပါခွေ"
+    },
+    {
+      "name_mm": "(ကမန)",
+      "nrc_code": "5",
+      "city_name": "ကျောက်မြောင်း"
+    },
+    {
+      "name_mm": "(ခပန)",
+      "nrc_code": "5",
+      "city_name": "ခမ်းပတ်"
+    },
+    {
+      "name_mm": "(လဟန)",
+      "nrc_code": "5",
+      "city_name": "လဟယ်"
+    },
+    {
+      "name_mm": "(လရန)",
+      "nrc_code": "5",
+      "city_name": "လေရှီး"
+    },
+    {
+      "name_mm": "(မမတ)",
+      "nrc_code": "5",
+      "city_name": "မြင်းမူ"
+    },
+    {
+      "name_mm": "(မပလ)",
+      "nrc_code": "5",
+      "city_name": "မိုပိုင်းလွတ်"
+    },
+    {
+      "name_mm": "(မသန)",
+      "nrc_code": "5",
+      "city_name": "မြို့သစ်"
+    },
+    {
+      "name_mm": "(ပဆန)",
+      "nrc_code": "5",
+      "city_name": "ပန်ဆောင်"
+    },
+    {
       "name_mm": "(ဘပန)",
       "nrc_code": "6",
       "city_name": "ဘုတ်ပြင်း"
@@ -484,6 +643,36 @@
       "name_mm": "(ရဖန)",
       "nrc_code": "6",
       "city_name": "ရေဖြူ"
+    },
+    {
+      "name_mm": "(ခမောက်ကြီး )",
+      "nrc_code": "6",
+      "city_name": "ခမက"
+    },
+    {
+      "name_mm": "(ကလအ)",
+      "nrc_code": "6",
+      "city_name": "ကလိန်အောင်"
+    },
+    {
+      "name_mm": "(ကရရ)",
+      "nrc_code": "6",
+      "city_name": "ကရသူရိ"
+    },
+    {
+      "name_mm": "(မအန)",
+      "nrc_code": "6",
+      "city_name": "မြိတ်အနောက်"
+    },
+    {
+      "name_mm": "(ပကမ)",
+      "nrc_code": "6",
+      "city_name": "ပြည်ကြီးမဏ္ဍိုင်"
+    },
+    {
+      "name_mm": "(ပလတ)",
+      "nrc_code": "6",
+      "city_name": "ပလောက်"
     },
     {
       "name_mm": "(အဖန)",
@@ -651,6 +840,21 @@
       "city_name": "ဇီးကုန်း"
     },
     {
+      "name_mm": "(ကဝန)",
+      "nrc_code": "7",
+      "city_name": "ကဝ"
+    },
+    {
+      "name_mm": "(လပတ)",
+      "nrc_code": "7",
+      "city_name": "လက်ပံတန်း"
+    },
+    {
+      "name_mm": "(ပတလ)",
+      "nrc_code": "7",
+      "city_name": "ပေါင်းတလည်"
+    },
+    {
       "name_mm": "(အလန)",
       "nrc_code": "8",
       "city_name": "အောင်လံ"
@@ -784,6 +988,11 @@
       "name_mm": "(ရစက)",
       "nrc_code": "8",
       "city_name": "ရေစကြို"
+    },
+    {
+      "name_mm": "(ကထန)",
+      "nrc_code": "8",
+      "city_name": "ကျောက်ထု"
     },
     {
       "name_mm": "(ဒခသ)",
@@ -1006,6 +1215,26 @@
       "city_name": "ရမည်းသင်း"
     },
     {
+      "name_mm": "(ငဇန)",
+      "nrc_code": "9",
+      "city_name": "ငါန်းဇွန်"
+    },
+    {
+      "name_mm": "(ပဘန)",
+      "nrc_code": "9",
+      "city_name": "ပျော်ဘွယ်"
+    },
+    {
+      "name_mm": "(ဥတသ)",
+      "nrc_code": "9",
+      "city_name": "ဥတ္တရသီရိ"
+    },
+    {
+      "name_mm": "(ခအဇ)",
+      "nrc_code": "9",
+      "city_name": "ချမ်းအေးသာစံ"
+    },
+    {
       "name_mm": "(ဘလန)",
       "nrc_code": "10",
       "city_name": "ဘီးလင်း"
@@ -1064,6 +1293,11 @@
       "name_mm": "(ရမန)",
       "nrc_code": "10",
       "city_name": "ရေး"
+    },
+    {
+      "name_mm": "(ကခမ)",
+      "nrc_code": "10",
+      "city_name": "ကျိုက္ခမီ"
     },
     {
       "name_mm": "(အမန)",
@@ -1149,6 +1383,21 @@
       "name_mm": "(ရသတ)",
       "nrc_code": "11",
       "city_name": "ရသေ့တောင်"
+    },
+    {
+      "name_mm": "(ကတလ)",
+      "nrc_code": "11",
+      "city_name": "ကျိန္တလီ"
+    },
+    {
+      "name_mm": "(မအတ)",
+      "nrc_code": "11",
+      "city_name": "မအီ"
+    },
+    {
+      "name_mm": "(တပဝ)",
+      "nrc_code": "11",
+      "city_name": "တောင်ပြိုလက်ဝဲ"
     },
     {
       "name_mm": "(အလန)",
@@ -1381,9 +1630,14 @@
       "city_name": "ရန်ကင်း"
     },
     {
+      "name_mm": "(တတထ)",
+      "nrc_code": "12",
+      "city_name": "တံတား"
+    },
+    {
       "name_mm": "(ခရဟ)",
       "nrc_code": "13",
-      "city_name": "ချင်းရွှေဟော်"
+      "city_name": "ချင်းရွှေဟော် မြို့နယ်ခွဲ"
     },
     {
       "name_mm": "(ဟပတ)",
@@ -1626,6 +1880,81 @@
       "city_name": "ရပ်စောက်"
     },
     {
+      "name_mm": "(အပန)",
+      "nrc_code": "13",
+      "city_name": "အောင်ပန်း"
+    },
+    {
+      "name_mm": "(အတန)",
+      "nrc_code": "13",
+      "city_name": "အင်တော"
+    },
+    {
+      "name_mm": "(အသယ)",
+      "nrc_code": "13",
+      "city_name": "အေးသာယာ"
+    },
+    {
+      "name_mm": "(ဟဟန)",
+      "nrc_code": "13",
+      "city_name": "ဟဲဟိုး"
+    },
+    {
+      "name_mm": "(ဟမန)",
+      "nrc_code": "13",
+      "city_name": "ဟိုမိန်း"
+    },
+    {
+      "name_mm": "(ကလထ)",
+      "nrc_code": "13",
+      "city_name": "ကျိူင်းလပ်"
+    },
+    {
+      "name_mm": "(ခလန)",
+      "nrc_code": "13",
+      "city_name": "ခိုလမ်"
+    },
+    {
+      "name_mm": "(မထန)",
+      "nrc_code": "13",
+      "city_name": "မော်ထိုက်"
+    },
+    {
+      "name_mm": "(မခတ)",
+      "nrc_code": "13",
+      "city_name": "မိုင်းခုတ်"
+    },
+    {
+      "name_mm": "(မငန)",
+      "nrc_code": "13",
+      "city_name": "မိုင်းငေါ့"
+    },
+    {
+      "name_mm": "(မဖထ)",
+      "nrc_code": "13",
+      "city_name": "မိုင်းဖျန်"
+    },
+    {
+      "name_mm": "(နတရ)",
+      "nrc_code": "13",
+      "city_name": "နောင်တရား"
+    },
+    {
+      "name_mm": "(ပပက)",
+      "nrc_code": "13",
+      "city_name": "ပုံပါကျင်"
+    },
+    {
+      "name_mm": "(ပဝန)",
+      "nrc_code": "13",
+      "city_name": "ပန်ဝိုင်"
+    },
+    {
+      "name_mm": "(တတန)",
+      "nrc_code": "13",
+      "city_name": "တုံတာ"
+    },
+    {
       "name_mm": "(ဘကလ)",
       "nrc_code": "14",
       "city_name": "ဘိုကလေး"
@@ -1776,326 +2105,6 @@
       "city_name": "ကန်ကြီးထောင့်"
     },
     {
-      "name_mm": "(ခမောက်ကြီး )",
-      "nrc_code": "6",
-      "city_name": "ခမက"
-    },
-    {
-      "name_mm": "(ကမတ)",
-      "nrc_code": "1",
-      "city_name": "ကာမိုင်း"
-    },
-    {
-      "name_mm": "(ကပတ)",
-      "nrc_code": "1",
-      "city_name": "ကန်ပိုက်တီ"
-    },
-    {
-      "name_mm": "(မလန)",
-      "nrc_code": "1",
-      "city_name": "မြို့လှ"
-    },
-    {
-      "name_mm": "(ပနဒ)",
-      "nrc_code": "1",
-      "city_name": "ပန်နန်းဒင်"
-    },
-    {
-      "name_mm": "(ပဝန)",
-      "nrc_code": "1",
-      "city_name": "ပန်ဝါ"
-    },
-    {
-      "name_mm": "(ဆဒန)",
-      "nrc_code": "1",
-      "city_name": "ဆဒုံး"
-    },
-    {
-      "name_mm": "(ရဘယ)",
-      "nrc_code": "1",
-      "city_name": "ရှင်ဘွေယန်"
-    },
-    {
-      "name_mm": "(မစန)",
-      "nrc_code": "2",
-      "city_name": "မယ်စဲ့"
-    },
-    {
-      "name_mm": "(ရသန)",
-      "nrc_code": "2",
-      "city_name": "ရွာသစ်"
-    },
-    {
-      "name_mm": "(ဘဂလ)",
-      "nrc_code": "3",
-      "city_name": "ဘောဂလိ"
-    },
-    {
-      "name_mm": "(ဘသဆ)",
-      "nrc_code": "3",
-      "city_name": "ဘုရားသုံးဆူ"
-    },
-    {
-      "name_mm": "(ကမမ)",
-      "nrc_code": "3",
-      "city_name": "ကမမောင်း"
-    },
-    {
-      "name_mm": "(လသန)",
-      "nrc_code": "3",
-      "city_name": "လိပ်သို"
-    },
-    {
-      "name_mm": "(စကလ)",
-      "nrc_code": "3",
-      "city_name": "စုကလိ"
-    },
-    {
-      "name_mm": "(သတက)",
-      "nrc_code": "3",
-      "city_name": "သံတောင်ကြီး"
-    },
-    {
-      "name_mm": "(ဝလမ)",
-      "nrc_code": "3",
-      "city_name": "ဝေါလေမြိုင်"
-    },
-    {
-      "name_mm": "(ရရသ)",
-      "nrc_code": "3",
-      "city_name": "ရှမ်းရွာသစ်"
-    },
-    {
-      "name_mm": "(ကခန)",
-      "nrc_code": "4",
-      "city_name": "ကျီခါး"
-    },
-    {
-      "name_mm": "(ဆမန)",
-      "nrc_code": "4",
-      "city_name": "ဆမီး"
-    },
-    {
-      "name_mm": "(ရခဒ)",
-      "nrc_code": "4",
-      "city_name": "ရိဒ်ခေါဒါရ်"
-    },
-    {
-      "name_mm": "(ရဇန)",
-      "nrc_code": "4",
-      "city_name": "ရေဇွာ"
-    },
-    {
-      "name_mm": "(ဒဟန)",
-      "nrc_code": "5",
-      "city_name": "ဒုံဟီး"
-    },
-    {
-      "name_mm": "(ဆမရ)",
-      "nrc_code": "5",
-      "city_name": "ဆွမ္မရာ"
-    },
-    {
-      "name_mm": "(ထပခ)",
-      "nrc_code": "5",
-      "city_name": "ထန်ပါခွေ"
-    },
-    {
-      "name_mm": "(ကမန)",
-      "nrc_code": "5",
-      "city_name": "ကျောက်မြောင်း"
-    },
-    {
-      "name_mm": "(ခပန)",
-      "nrc_code": "5",
-      "city_name": "ခမ်းပတ်"
-    },
-    {
-      "name_mm": "(လဟန)",
-      "nrc_code": "5",
-      "city_name": "လဟယ်"
-    },
-    {
-      "name_mm": "(လရန)",
-      "nrc_code": "5",
-      "city_name": "လေရှီး"
-    },
-    {
-      "name_mm": "(မမတ)",
-      "nrc_code": "5",
-      "city_name": "မြင်းမူ"
-    },
-    {
-      "name_mm": "(မပလ)",
-      "nrc_code": "5",
-      "city_name": "မိုပိုင်းလွတ်"
-    },
-    {
-      "name_mm": "(မသန)",
-      "nrc_code": "5",
-      "city_name": "မြို့သစ်"
-    },
-    {
-      "name_mm": "(ပဆန)",
-      "nrc_code": "5",
-      "city_name": "ပန်ဆောင်"
-    },
-    {
-      "name_mm": "(ကလအ)",
-      "nrc_code": "6",
-      "city_name": "ကလိန်အောင်"
-    },
-    {
-      "name_mm": "(ကရရ)",
-      "nrc_code": "6",
-      "city_name": "ကရသူရိ"
-    },
-    {
-      "name_mm": "(မအန)",
-      "nrc_code": "6",
-      "city_name": "မြိတ်အနောက်"
-    },
-    {
-      "name_mm": "(ပကမ)",
-      "nrc_code": "6",
-      "city_name": "ပြည်ကြီးမဏ္ဍိုင်"
-    },
-    {
-      "name_mm": "(ပလတ)",
-      "nrc_code": "6",
-      "city_name": "ပလောက်"
-    },
-    {
-      "name_mm": "(ကဝန)",
-      "nrc_code": "7",
-      "city_name": "ကဝ"
-    },
-    {
-      "name_mm": "(လပတ)",
-      "nrc_code": "7",
-      "city_name": "လက်ပံတန်း"
-    },
-    {
-      "name_mm": "(ပတလ)",
-      "nrc_code": "7",
-      "city_name": "ပေါင်းတလည်"
-    },
-    {
-      "name_mm": "(ကထန)",
-      "nrc_code": "8",
-      "city_name": "ကျောက်ထု"
-    },
-    {
-      "name_mm": "(ငဇန)",
-      "nrc_code": "9",
-      "city_name": "ငါန်းဇွန်"
-    },
-    {
-      "name_mm": "(ပဘန)",
-      "nrc_code": "9",
-      "city_name": "ပျော်ဘွယ်"
-    },
-    {
-      "name_mm": "(ဥတသ)",
-      "nrc_code": "9",
-      "city_name": "ဥတ္တရသီရိ"
-    },
-    {
-      "name_mm": "(ကခမ)",
-      "nrc_code": "10",
-      "city_name": "ကျိုက္ခမီ"
-    },
-    {
-      "name_mm": "(ကတလ)",
-      "nrc_code": "11",
-      "city_name": "ကျိန္တလီ"
-    },
-    {
-      "name_mm": "(မအတ)",
-      "nrc_code": "11",
-      "city_name": "မအီ"
-    },
-    {
-      "name_mm": "(တပဝ)",
-      "nrc_code": "11",
-      "city_name": "တောင်ပြိုလက်ဝဲ"
-    },
-    {
-      "name_mm": "(အပန)",
-      "nrc_code": "13",
-      "city_name": "အောင်ပန်း"
-    },
-    {
-      "name_mm": "(အတန)",
-      "nrc_code": "13",
-      "city_name": "အင်တော"
-    },
-    {
-      "name_mm": "(အသယ)",
-      "nrc_code": "13",
-      "city_name": "အေးသာယာ"
-    },
-    {
-      "name_mm": "(ဟဟန)",
-      "nrc_code": "13",
-      "city_name": "ဟဲဟိုး"
-    },
-    {
-      "name_mm": "(ဟမန)",
-      "nrc_code": "13",
-      "city_name": "ဟိုမိန်း"
-    },
-    {
-      "name_mm": "(ကလထ)",
-      "nrc_code": "13",
-      "city_name": "ကျိူင်းလပ်"
-    },
-    {
-      "name_mm": "(ခလန)",
-      "nrc_code": "13",
-      "city_name": "ခိုလမ်"
-    },
-    {
-      "name_mm": "(မထန)",
-      "nrc_code": "13",
-      "city_name": "မော်ထိုက်"
-    },
-    {
-      "name_mm": "(မခတ)",
-      "nrc_code": "13",
-      "city_name": "မိုင်းခုတ်"
-    },
-    {
-      "name_mm": "(မငန)",
-      "nrc_code": "13",
-      "city_name": "မိုင်းငေါ့"
-    },
-    {
-      "name_mm": "(မဖထ)",
-      "nrc_code": "13",
-      "city_name": "မိုင်းဖျန်"
-    },
-    {
-      "name_mm": "(နတရ)",
-      "nrc_code": "13",
-      "city_name": "နောင်တရား"
-    },
-    {
-      "name_mm": "(ပပက)",
-      "nrc_code": "13",
-      "city_name": "ပုံပါကျင်"
-    },
-    {
-      "name_mm": "(ပဝန)",
-      "nrc_code": "13",
-      "city_name": "ပန်ဝိုင်"
-    },
-    {
-      "name_mm": "(တတန)",
-      "nrc_code": "13",
-      "city_name": "တုံတာ"
-    },
-    {
       "name_mm": "(အမတ)",
       "nrc_code": "14",
       "city_name": "အမာ"
@@ -2114,16 +2123,6 @@
       "name_mm": "(ရသယ)",
       "nrc_code": "14",
       "city_name": "ရွှေသောင်ယံ"
-    },
-    {
-      "name_mm": "(ခအဇ)",
-      "nrc_code": "9",
-      "city_name": "ချမ်းအေးသာစံ"
-    },
-    {
-      "name_mm": "(တတထ)",
-      "nrc_code": "12",
-      "city_name": "တံတား"
     }
   ]
 }

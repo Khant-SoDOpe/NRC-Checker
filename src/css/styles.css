@@ -22,13 +22,14 @@ p {
 }
 
 input[type="text"] {
-text-align: center;
-width: 100%;
-max-width: 400px;
-padding: 15px;
-font-size: 16px;
-border: 1px solid #ccc;
-border-radius: 50px; /* Add this line for rounded corners */
+  text-align: center;
+  width: 100%;
+  max-width: 400px;
+  padding: 15px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  /* Add this line for rounded corners */
 }
 
 table {
@@ -37,7 +38,8 @@ table {
   background-color: #fff;
 }
 
-th, td {
+th,
+td {
   border: 1px solid #ddd;
   padding: 15px;
 }
